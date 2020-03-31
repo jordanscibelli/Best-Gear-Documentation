@@ -1,0 +1,3 @@
+* xref:index.adoc[Best Gear]
+* xref:Outdoor-Recreation:ROOT:index.adoc[Outdoor Recreation]
+* xref:Electronics:ROOT:index.adoc[Electronics]

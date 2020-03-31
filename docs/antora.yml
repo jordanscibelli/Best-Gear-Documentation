@@ -1,0 +1,5 @@
+name: best-gear
+title: Best Gear
+version: dev
+nav:
+- modules/ROOT/nav.adoc
